@@ -1,5 +1,5 @@
 This project is implemented using C-language;
-The purpose is to evaluate the different efficiencies of algorithms
+The purpose is to evaluate the efficiencies of different algorithms
 ...................................................................
 AUTHORS:
 Name: Ifeanyi G. Nworji
